@@ -1,0 +1,3 @@
+Hi, my name is Bo!
+This is a test dataset for my week 2 assignment.
+If this works, it should create a new file for each line and title-ize each word in each line.
